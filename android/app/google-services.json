@@ -1,0 +1,97 @@
+{
+  "project_info": {
+    "project_number": "656926875322",
+    "project_id": "soloswebsite-1a8d5",
+    "storage_bucket": "soloswebsite-1a8d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656926875322:android:5c6566407cac6e6ba36c83",
+        "android_client_info": {
+          "package_name": "completesoloswebsite.completesoloswebsite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "656926875322-gsl13rdvs45qidqdck3305cugdeab301.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDruE20U4gP-VhvHKqPMKKa4fD20BF6YWg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "656926875322-gsl13rdvs45qidqdck3305cugdeab301.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656926875322:android:a9be22aa4b920fe1a36c83",
+        "android_client_info": {
+          "package_name": "solosadmin.solosadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "656926875322-gsl13rdvs45qidqdck3305cugdeab301.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDruE20U4gP-VhvHKqPMKKa4fD20BF6YWg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "656926875322-gsl13rdvs45qidqdck3305cugdeab301.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656926875322:android:3d70770b8cfbc1d0a36c83",
+        "android_client_info": {
+          "package_name": "soloswebsite.soloswebsite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "656926875322-gsl13rdvs45qidqdck3305cugdeab301.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDruE20U4gP-VhvHKqPMKKa4fD20BF6YWg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "656926875322-gsl13rdvs45qidqdck3305cugdeab301.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
